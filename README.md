@@ -1,5 +1,12 @@
-# Webpack configurado
+<h1 align='center'> To Do <h1>
 
-Para usar este repositorio, deberán ejecutar el comando de ```npm install```
+<hr />
+
+<p> Una aplicacion sencila que despliega una lista de tareas que podemos actualizar y posteriormente marcar como realizadas </p>
+
+
+
+
+
 
 
